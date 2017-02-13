@@ -1,0 +1,24 @@
+{
+  "name": "Liri-Bot-Node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aagreda/Liri-Bot-Node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aagreda/Liri-Bot-Node/issues"
+  },
+  "homepage": "https://github.com/aagreda/Liri-Bot-Node#readme",
+  "dependencies": {
+    "inquirer": "^3.0.1",
+    "request": "^2.79.0"
+  }
+}
